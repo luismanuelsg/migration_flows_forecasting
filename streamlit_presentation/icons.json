@@ -1,0 +1,23 @@
+[
+    {
+        "lon": 29.951458283594064,
+        "lat": 15.67060230984256,
+        "icon_data": {
+            "url": "https://ec.europa.eu/eurostat/cache/website/cis/Logo/logo_RGB-POS.png', 'width': 128, 'height': 128, 'anchorY': 128"
+        }
+    },
+    {
+        "lon": 14.449698,
+        "lat": 35.881347,
+        "icon_data": {
+            "url": "https://ec.europa.eu/eurostat/cache/website/cis/Logo/logo_RGB-POS.png', 'width': 128, 'height': 128, 'anchorY': 128"
+        }
+    },    
+    {
+        "lon": 10.426171427430804,
+        "lat": 51.08304539800482,
+        "icon_data": {
+            "url": "https://ec.europa.eu/eurostat/cache/website/cis/Logo/logo_RGB-POS.png', 'width': 128, 'height': 128, 'anchorY': 128"
+        }
+    }
+  ]
